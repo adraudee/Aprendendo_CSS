@@ -1,0 +1,24 @@
+<style>
+        #p01{
+            color: rgb(82, 91, 224);
+            font-size: 75px;
+            background-color: rgb(199, 241, 147);
+        }
+        #p02{
+            color: blue;
+            font-size: 90px;
+            background-color: rgb(65, 65, 49);
+        }
+        #p03{
+            color: blueviolet;
+            font-size: 95px;
+            background-color: aqua;
+            
+        }
+        body{
+            background-color: rgb(226, 127, 127);
+        }
+       
+        }
+
+    </style>
